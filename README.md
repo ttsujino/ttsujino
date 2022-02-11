@@ -5,9 +5,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttsujino&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api?username=hoge&count_private=true&show_icons=true&hide=contribs&count_private=true&theme=dracula)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ttsujino&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=ttsujino&count_private=true&show_icons=true&hide=contribs&count_private=true&theme=dracula)
 
 <!--
 
