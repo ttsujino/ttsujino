@@ -1,16 +1,18 @@
-### Hi there 👋
+## Status
+
+
+![](https://komarev.com/ghpvc/?username=ttsujino&color=yellow)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ttsujino&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api?username=hoge&count_private=true&show_icons=true&hide=contribs&count_private=true&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ttsujino&layout=compact&theme=dracula)
 
 <!--
-**ttsujino/ttsujino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This is profile is referring to the page below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
+
 -->
